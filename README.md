@@ -1,2 +1,2 @@
 # MUSEUM-OF-CANDY_DR
-Using HTML, CSS I have built a static website.
+Using HTML and CSS I have built a static website.
